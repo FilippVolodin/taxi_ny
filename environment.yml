@@ -6,10 +6,13 @@ channels:
   - scitools
   - ioam
 dependencies:
+  - python=2.7
   - pandas
   - numpy
   - shapely
   - param
-  - holoviews
+  - holoviews=1.10.0a2
   - geoviews
   - geopandas
+
+

@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+  - ioam/label/dev
+  - ioos
+  - scitools
+  - ioam
+dependencies:
+  - pandas
+  - numpy
+  - shapely
+  - param
+  - holoviews
+  - geoviews
+  - geopandas
